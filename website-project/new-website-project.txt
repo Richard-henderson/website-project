@@ -17,15 +17,15 @@ background-colour: black;
 <body>
 
 <p style="color:white;"Hi my name is Richard Henderson></p>
-<p style="color:white;"videogames i play></p>
+<p style="color:white;"my project is on"type info here"></p>
 
 <ol>
-<li style="color:white;"callofduty
-<li style="color:white;"Minecraft
-<li style="color:white;"smash bros
+<li style="color:white;"
+<li style="color:white;"
+<li style="color:white;"
 
 </ol>
 <a
-href="https://www.youtube.com/channel/UC7jkoUv2DyLU5PhMwST6GFA"></a>
+href="type info here"></a>
 </body>
 </html>
