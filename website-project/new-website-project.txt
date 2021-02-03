@@ -1,0 +1,31 @@
+<html>
+<head>
+<meta charset="utf-8">
+<title>This is my Html Project</title>
+<img src="Photos/ricky.jpeg" width="300" height="300">
+<style>
+body {
+background-colour: black;
+}
+</style>
+</head>
+<body>
+<style>
+
+</style>
+</head>
+<body>
+
+<p style="color:white;"Hi my name is Richard Henderson></p>
+<p style="color:white;"videogames i play></p>
+
+<ol>
+<li style="color:white;"callofduty
+<li style="color:white;"Minecraft
+<li style="color:white;"smash bros
+
+</ol>
+<a
+href="https://www.youtube.com/channel/UC7jkoUv2DyLU5PhMwST6GFA"></a>
+</body>
+</html>
